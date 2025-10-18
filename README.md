@@ -1,5 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=blur&section=header&height=300&color=gradient&customColorList=20,21&text=Choi%20Joon%20Hyuk&fontAlignY=70&desc=©%20hellicat&descAlign=75&descAlignY=55)
-![notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<a href="https://malachite-tracker-84f.notion.site/66fe5447339b4863ac44e4cfa70d121f?pvs=74">
+![notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+</a>
+<a href="https://github.com/hellicopthecat">
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+</a>
 
 ## Skills
 
