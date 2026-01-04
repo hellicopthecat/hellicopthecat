@@ -1,8 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=blur&section=header&height=300&color=gradient&customColorList=20,21&text=Choi%20Joon%20Hyuk&fontAlignY=70&desc=©%20hellicat&descAlign=75&descAlignY=55)
 
 ## Hello
-
+### Main Role
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=30&duration=3000&pause=1000&color=F7643B&vCenter=true&random=true&width=435&lines=Frontend+Developer)
+### Sub Role
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=30&duration=3000&pause=1000&color=FFF43B&vCenter=true&random=true&width=435&lines=Backend+Developer)
 
 [![notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://malachite-tracker-84f.notion.site/66fe5447339b4863ac44e4cfa70d121f?pvs=74)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hellicopthecat)
